@@ -51,8 +51,3 @@
 
 </body>
 </html>
-
-    text-align: center;
-    padding: 40px;
-    opacity: 0.5;
-}
